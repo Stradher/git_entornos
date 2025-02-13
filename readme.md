@@ -1,6 +1,6 @@
-# Mi Página Web 🌐
+# EJERCICIO DE ENTORNOS🌐
 
-Este proyecto es una página web básica desarrollada con **HTML** y **CSS**, diseñada con un enfoque minimalista. La página incluye varias secciones clave como _Sobre mí_, _Servicios_ y _Contacto_, acompañadas de un formulario.
+Este ejercicio es una página web básica desarrollada con **HTML** y **CSS**, creado para poder practicar y familiarizarme con git y github.
 
 ## 🚀 Características
 - **Diseño responsivo** para adaptarse a diferentes dispositivos.
@@ -22,7 +22,7 @@ Este proyecto es una página web básica desarrollada con **HTML** y **CSS**, di
 
 ## 🛠️ Lenguajes utilizados
 - **HTML5**
-- **CSS3**
+- **CSS**
 
 ## 🖥️ Cómo ejecutar el proyecto
 1. Clona el repositorio:
