@@ -1,6 +1,6 @@
 # Mi Página Web 🌐
 
-Este proyecto es una página web básica desarrollada con **HTML** y **CSS**, diseñada con una paleta de colores morados y un enfoque minimalista. La página incluye varias secciones clave como _Sobre mí_, _Servicios_ y _Contacto_, acompañadas de un formulario funcional.
+Este proyecto es una página web básica desarrollada con **HTML** y **CSS**, diseñada con un enfoque minimalista. La página incluye varias secciones clave como _Sobre mí_, _Servicios_ y _Contacto_, acompañadas de un formulario.
 
 ## 🚀 Características
 - **Diseño responsivo** para adaptarse a diferentes dispositivos.
@@ -18,16 +18,16 @@ Este proyecto es una página web básica desarrollada con **HTML** y **CSS**, di
 
 ## 📸 Capturas de pantalla
 
-![Captura de la página web](https://via.placeholder.com/800x400.png?text=Captura+de+la+p%C3%A1gina+web)
+![Captura de la página web](https://imgur.com/a/NeDb4kM)
 
-## 🛠️ Tecnologías utilizadas
+## 🛠️ Lenguajes utilizados
 - **HTML5**
 - **CSS3**
 
 ## 🖥️ Cómo ejecutar el proyecto
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_proyecto.git
+   git clone https://github.com/Stradher/git_entornos
    ```
 2. Abre el archivo `index.html` en tu navegador favorito.
 
@@ -36,10 +36,10 @@ Puedes cambiar los colores, fuentes y contenido editando el archivo `styles.css`
 
 ## 📧 Contacto
 Si tienes preguntas o sugerencias, no dudes en contactar:
-- **Email:** tu.email@ejemplo.com
-- **GitHub:** [TuUsuario](https://github.com/TuUsuario)
+- **Email:** javier.esther@educa.jcyl.es
+- **GitHub:** [TuUsuario](https://github.com/Stradher)
 
 ---
-**© 2025 Mi Página Web. Todos los derechos reservados.**
+**Javier Estrada Hernández© 2025 Mi Página Web. Todos los derechos reservados.**
 
 ¡Gracias por visitar este proyecto! ✨
